@@ -1,16 +1,32 @@
-# flutter_application_1
+# Zfitness-App
 
-A new Flutter project.
+Z Fitness 🏋️‍♂️
 
-## Getting Started
+Z Fitness is a modern fitness mobile app built with Flutter and Dart, powered by Firebase for backend services and integrated with a Chatbot API to provide personalized fitness guidance.
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+🔐 Firebase Authentication – Secure login & signup with email/password and Google.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📊 User Dashboard – Track workouts, calories, and progress.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🤖 AI Chatbot – Get instant fitness tips, workout suggestions, and nutrition advice.
+
+📝 Workout Plans – Personalized routines with exercise details.
+
+🔔 Push Notifications – Stay motivated with daily reminders.
+
+☁️ Cloud Firestore – Store and sync user data in real-time.
+
+🛠️ Tech Stack
+
+Framework: Flutter (Dart)
+
+Backend & Auth: Firebase Authentication, Cloud Firestore, Firebase Storage
+
+Chatbot Integration: Chatbot API (AI-powered assistant)
+
+State Management: Provider / Riverpod / Bloc 
+
+Deployment: Android & iOS
+
